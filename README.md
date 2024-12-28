@@ -26,7 +26,8 @@ This dataset includes the nutritional information for Starbucks’ drink menu it
 ## Results
 
 The analysis of sugar, cholesterol, calories, and caffeine content highlights:
-![Starbucks_EDA](Details/chart.PNG)
+
+![Starbucks_EDA](Details/chart.png)
 
 1. Caffeine Content: Coffees like 'Brewed Coffee' with the highest caffeine are identified, useful for those needing
    an energy boost but should be consumed in moderation by individuals sensitive to caffeine.
