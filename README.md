@@ -28,13 +28,13 @@ This dataset includes the nutritional information for Starbucks’ drink menu it
 The analysis of sugar, cholesterol, calories, and caffeine content highlights:
 
 1. Caffeine Content: Coffees like 'Brewed Coffee' with the highest caffeine are identified, useful for those needing
-2. an energy boost but should be consumed in moderation by individuals sensitive to caffeine.
+   an energy boost but should be consumed in moderation by individuals sensitive to caffeine.
 
-3. Diet Considerations: Coffees low in calories like 'Brewed Coffee' or 'Espresso' are recommended for those on a diet,
-4. while high-calorie options should be avoided.
+2. Diet Considerations: Coffees low in calories like 'Brewed Coffee' or 'Espresso' are recommended for those on a diet,
+   while high-calorie options should be avoided.
 
-5. Diabetes Management: Coffees with low sugar content - 'Brewed Coffee' or 'Espresso', and 'Caffee Americano'
-6. are suitable for people with diabetes, while high-sugar coffees should be avoided to prevent blood sugar spikes.
+3. Diabetes Management: Coffees with low sugar content - 'Brewed Coffee' or 'Espresso', and 'Caffee Americano'
+   are suitable for people with diabetes, while high-sugar coffees should be avoided to prevent blood sugar spikes.
 
 Clustering:
 
